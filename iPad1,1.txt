@@ -1,6 +1,7 @@
 gsc.720p
 gsc.accelerometer
 gsc.accessibility
+gsc.additional-text-tones
 gsc.all-features
 gsc.app-store
 gsc.application-installation
@@ -31,7 +32,9 @@ gsc.not-green-tea
 gsc.opengles-1
 gsc.opengles-2
 gsc.peer-peer
+gsc.photo-stream
 gsc.ringer-switch
+gsc.software-dimming-alpha
 gsc.stand-alone-contacts
 gsc.tv-out-crossfade
 gsc.tv-out-settings
