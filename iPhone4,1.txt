@@ -15,6 +15,7 @@ gsc.bluetooth-le
 gsc.camera-flash
 gsc.cellular-data
 gsc.contains-cellular-radio
+gsc.dictation
 gsc.display-mirroring
 gsc.displayport
 gsc.encode-aac
@@ -39,7 +40,6 @@ gsc.io-surface-backed-images
 gsc.load-thumbnails-while-scrolling
 gsc.location-services
 gsc.magnetometer
-gsc.mars-volta
 gsc.microphone
 gsc.mms
 gsc.multitasking
